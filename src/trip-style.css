@@ -1,0 +1,28 @@
+.cover-detail{
+    background-color: #208df1;
+    background: #208df1;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #e09cff, #208df1);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #e09cff, #208df1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    width: 100%;
+    height: 200px;
+    top: 80px;
+    margin: 0 auto;
+    position: fixed;
+}
+.large-img{
+    width: 550px;
+}
+.medium-img{
+    max-width: 200px;
+}
+.card-contain{
+    height: 100vh;
+}
+.detail-navbar{
+    width: 70%;
+    left: 100%;
+    transform: translateX(20%);
+}
+.card-contain-margin{
+    margin-top: 20px;
+}
